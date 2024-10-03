@@ -1,0 +1,286 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #fafafa;
+  color: #111;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+/* header */
+.logo-italic {
+  font-style: italic;
+}
+.header {
+}
+.header-nav {
+}
+.header-logo {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11;
+  letter-spacing: -0.03em;
+  color: #111;
+}
+.header-list {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: -0.02em;
+}
+.header-list-item {
+  color: #111;
+}
+.header-media {
+}
+.header-media-item {
+}
+/* section 1 */
+.main-cnt {
+}
+.caption {
+  background-image: url("./images/chocolate-covered-cocoa-powder.jpg");
+  background-repeat: no-repeat; /* Запобігає повторенню зображення */
+  background-size: cover; /* Підігнати зображення під розмір екрану */
+}
+.caption-img {
+}
+.caption-title {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21429;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+.caption-btn {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 100px;
+  padding: 14px 40px;
+  width: 144px;
+  height: 45px;
+  background: #fd9222;
+}
+.caption-link {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+}
+.caption-link-scroll {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+/* section 2 */
+.lead {
+  background: #1e1823;
+}
+.lead-list {
+}
+.lead-item {
+}
+.lead-title {
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+}
+.lead-text {
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  color: rgba(255, 255, 255, 0.7);
+}
+/* section 3 */
+.taste {
+}
+.taste-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16667;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #111;
+}
+.taste-accent {
+  color: #fd9222;
+}
+.taste-subtitle {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #111;
+}
+.taste-list {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}
+.taste-milk-chocolate {
+  background: #fd9222;
+}
+.milk-chocolate-img {
+}
+.milk-chocolate-text {
+  color: #fff;
+}
+.taste-milk {
+  background: #fff;
+}
+.milk-img {
+}
+.milk-text {
+  color: #111;
+}
+.taste-nuts {
+  background: #1e1823;
+}
+.nuts-img {
+}
+.nuts-text {
+  color: #fff;
+}
+.taste-sweet {
+  background: #fff;
+}
+.sweet-img {
+}
+.sweet-text {
+  color: #111;
+}
+/* section 4 */
+#made {
+}
+.made-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16667;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #111;
+}
+.made-accent {
+  color: #fd9222;
+}
+.made-img {
+  border-radius: 15px;
+}
+.made-subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33333;
+  color: #111;
+}
+.made-list {
+}
+.made_item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.02em;
+  color: #111;
+  list-style-type: disc;
+}
+/* section 5 */
+.coments {
+}
+.coments-accent {
+  color: #fd9222;
+}
+.coments-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16667;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+}
+.coments-list {
+}
+.coments-item {
+}
+.coments-img {
+}
+.coments-name {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33333;
+  text-align: center;
+  color: #111;
+}
+.coments-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: rgba(17, 17, 17, 0.7);
+}
+.coments-btn {
+  font-weight: 600;
+  font-size: 18px;
+  color: #111;
+}
+/* footer */
+.footer {
+  background: #1e1823;
+}
+.footer-title {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21429;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
+.footer-accent {
+  color: #fd9222;
+}
+.contacts {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.28571;
+  text-align: center;
+  color: #fff;
+}
+.contacts-cnt {
+}
+.contacts-list {
+}
+.contacts-item {
+  font-style: normal;
+
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #fff;
+}
+.contacts-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14286;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
+
+.footer-list-item {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14286;
+  letter-spacing: -0.02em;
+  color: #fff;
+  font-style: normal;
+}
